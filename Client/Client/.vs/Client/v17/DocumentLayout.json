@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\notify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\notify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\client\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026AF59-31E5-43A9-9542-D303E00C369C}|Client\\Client.csproj|solutionrelative:client\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Options.cs",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Options.cs",
+              "RelativeDocumentMoniker": "Client\\Options.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Options.cs",
+              "RelativeToolTip": "Client\\Options.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:13:53.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Billing.cs",
+              "RelativeDocumentMoniker": "Client\\Billing.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Billing.cs",
+              "RelativeToolTip": "Client\\Billing.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:45:04.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\TCPClient.cs",
+              "RelativeDocumentMoniker": "Client\\TCPClient.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\TCPClient.cs",
+              "RelativeToolTip": "Client\\TCPClient.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFUAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:43:11.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Billing.cs",
+              "RelativeDocumentMoniker": "Client\\Billing.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Billing.cs [Design]",
+              "RelativeToolTip": "Client\\Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:30:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notify.cs",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Notify.cs",
+              "RelativeDocumentMoniker": "Client\\Notify.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Notify.cs",
+              "RelativeToolTip": "Client\\Notify.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:35:06.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Setup.cs",
+              "RelativeDocumentMoniker": "Client\\Setup.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Setup.cs",
+              "RelativeToolTip": "Client\\Setup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:09:35.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Setup.cs [Design]",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Setup.cs",
+              "RelativeDocumentMoniker": "Client\\Setup.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Setup.cs [Design]",
+              "RelativeToolTip": "Client\\Setup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:00:44.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Parent.cs",
+              "RelativeDocumentMoniker": "Client\\Parent.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Parent.cs",
+              "RelativeToolTip": "Client\\Parent.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:53:43.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parent.cs [Design]",
+              "DocumentMoniker": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Parent.cs",
+              "RelativeDocumentMoniker": "Client\\Parent.cs",
+              "ToolTip": "C:\\Batununggal Dev\\BTNBilling\\Client\\Client\\Client\\Parent.cs [Design]",
+              "RelativeToolTip": "Client\\Parent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:48:02.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

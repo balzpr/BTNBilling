@@ -1,0 +1,16 @@
+C:\Batununggal Dev\BTNBilling\Server\Server\bin\Debug\Server.exe.config
+C:\Batununggal Dev\BTNBilling\Server\Server\bin\Debug\Server.exe
+C:\Batununggal Dev\BTNBilling\Server\Server\bin\Debug\Server.pdb
+C:\Batununggal Dev\BTNBilling\Server\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Batununggal Dev\BTNBilling\Server\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.Form1.resources
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.csproj.Up2Date
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.exe
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.pdb
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.Form2.resources
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.Form3.resources
+C:\Batununggal Dev\BTNBilling\Server\Server\obj\Debug\Server.Form4.resources

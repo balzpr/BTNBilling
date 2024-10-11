@@ -1,0 +1,16 @@
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\bin\Debug\Client.exe.config
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\bin\Debug\Client.exe
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\bin\Debug\Client.pdb
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.exe
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.pdb
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.Parent.resources
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\bin\Debug\Guna.UI2.dll
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.csproj.Up2Date
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.Setup.resources
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Batununggal Dev\BTNBilling\Client\Client\Client\obj\Debug\Client.Billing.resources
